@@ -1,0 +1,7 @@
+INFO:     Will watch for changes in these directories: ['/Users/jiaqi/GithubProject/pets/AI_images/backend']
+ERROR:    [Errno 48] Address already in use
+[CONFIG] GEMINI_API_KEY: ✓ Configured
+[CONFIG] DOUBAO_API_KEY: ✓ Configured
+[CONFIG] MIMO_API_KEY: ✓ Configured
+[CONFIG] OPENAI_API_KEY: ✓ Configured
+[CONFIG] STABILITY_API_KEY: ✓ Configured
